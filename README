@@ -1,0 +1,11 @@
+You can execute following scripts:
+
+sailing.py  - the main program, some symbolics and also plotting.
+sail_interact.py - equilibrium velocity and some vector visualization
+plot_force.py   - polar (countuor) plot of the force on the boat 
+plot_force_interact.py - plot_force but with interations
+sailing_simulator.py - uses vpython to simulate the numerical solution 
+                       of the boat, course can be changed interactively 
+The sympy in 0.6.7-git is required, and also matplotlib and numpy.
+
+
